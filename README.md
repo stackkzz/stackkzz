@@ -39,7 +39,7 @@ Ferramentas presentes nos meus estudos e projetos:
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/projeto-logo-dark.png" />
-    <img src="./assets/projeto-logo.png" width="64" alt="Símbolo em V da identidade visual do projeto de marketing com IA" />
+    <img src="./projeto-logo.png" width="64" alt="Símbolo em V da identidade visual do projeto de marketing com IA" />
   </picture>
 </p>
 
