@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Henry Marques — desenvolvedor em formação. Web, mobile, automação e IA aplicada." />
+  <img src="./header.svg" width="100%" alt="Henry Marques — desenvolvedor em formação. Web, mobile, automação e IA aplicada." />
 </p>
 
 <p align="center">
