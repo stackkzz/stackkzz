@@ -39,40 +39,17 @@ Ferramentas presentes nos meus estudos e projetos:
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./projeto-logo-dark.png" />
-    <img src="./projeto-logo.png" width="64" alt="Símbolo em V da identidade visual do projeto de marketing com IA" />
+    <img src="./projeto-logo.png" width="64" />
   </picture>
 </p>
 
 ### Plataforma SaaS de Marketing com IA
 
-**Em desenvolvimento · PostAI é o nome provisório do projeto.**
+**Em desenvolvimento · Mavik**
 
 > Uma equipe de marketing com inteligência artificial, pensada para pequenos negócios.
 
 Estou desenvolvendo uma plataforma para reunir **estratégia, criação e gestão de conteúdo** em um só lugar. A visão é permitir que uma empresa transforme um briefing em posts alinhados à sua identidade, prontos para revisão e publicação no Instagram.
-
-**Visão do produto e funcionalidades planejadas:**
-
-| Área | Experiência proposta |
-| :--- | :--- |
-| **Identidade da marca** | Reunir logotipo, paleta, referências visuais e tom de voz em um Brand Kit. |
-| **Criação com IA** | Gerar ideias, artes, legendas e hashtags a partir das informações do negócio. |
-| **Estúdio de criação** | Ajustar textos e elementos visuais, comparar versões e revisar os posts. |
-| **Calendário e publicação** | Organizar conteúdos e agendar publicações no Instagram após aprovação humana. |
-| **Evolução da plataforma** | Acompanhar resultados, apoiar campanhas e gerenciar múltiplas marcas. |
-
-**Base atual do desenvolvimento:** Next.js, React, TypeScript, Tailwind CSS e Supabase.
-
-**Foco imediato:** geração de texto com IA e salvamento de rascunhos. As demais experiências fazem parte da evolução planejada do produto.
-
-<sub>O código do projeto está em um repositório privado. Esta seção apresenta sua proposta e direção de desenvolvimento.</sub>
-
-## O que estou aprofundando
-
-- Desenvolvimento de aplicações web e mobile.
-- Integração entre interfaces, APIs e bancos de dados.
-- Autenticação e organização de dados por usuário.
-- IA aplicada à criação de conteúdo e à automação de tarefas.
 
 ---
 
