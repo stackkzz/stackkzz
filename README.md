@@ -14,8 +14,7 @@
   </a>
 </p>
 
-Sobre mim
-Sou desenvolvedor em formação e construo minha experiência com projetos web, mobile e aplicações em Java. Gosto de entender como as partes de um sistema se conectam: da interface ao banco de dados.
+Sou desenvolvedor em formação e construo minha experiência com projetos web e mobile.
 Tenho interesse em automação, inteligência artificial aplicada a produtos digitais e soluções para pequenos negócios. Nos meus projetos, busco unir organização do código, interfaces claras e funcionalidades que resolvam problemas reais.
 Tecnologias nos meus estudos e projetos
 <p>
@@ -27,9 +26,6 @@ Tecnologias nos meus estudos e projetos
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-18181B?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-18181B?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
 </p>
