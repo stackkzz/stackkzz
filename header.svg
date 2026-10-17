@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Henry Marques — desenvolvimento web, mobile e automação</title>
+  <desc id="desc">Banner nas cores violeta, lavanda e noite. Construindo soluções digitais com propósito.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5926C8"/>
+      <stop offset="1" stop-color="#1A0F3C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B390FA"/>
+      <stop offset="1" stop-color="#5926C8"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1280" height="360" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="360" fill="#1A0F3C"/>
+    <path d="M 910 -80 L 1310 70 L 1215 420 L 815 270 Z" fill="url(#panel)" opacity=".7"/>
+    <path d="M 950 -80 L 1350 70 L 1255 420 L 855 270 Z" fill="none" stroke="#B390FA" stroke-opacity=".16"/>
+    <path d="M 1000 -80 L 1400 70 L 1305 420 L 905 270 Z" fill="none" stroke="#B390FA" stroke-opacity=".1"/>
+    <rect x="56" y="48" width="34" height="4" rx="2" fill="#B390FA"/>
+    <text x="106" y="56" fill="#B390FA" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">@STACKKZZ</text>
+    <text x="54" y="146" fill="#F8F6FE" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2">Henry Marques</text>
+    <text x="58" y="191" fill="#EFE8FD" font-family="Arial, Helvetica, sans-serif" font-size="25">Desenvolvedor em formação</text>
+    <text x="58" y="235" fill="#B390FA" font-family="Arial, Helvetica, sans-serif" font-size="20">Web · Mobile · Automação · IA aplicada</text>
+    <text x="58" y="302" fill="#EFE8FD" font-family="Arial, Helvetica, sans-serif" font-size="18">Construindo soluções digitais com propósito.</text>
+    <g transform="translate(890 84)">
+      <rect x="14" y="14" width="280" height="196" rx="18" fill="#1A0F3C" opacity=".45"/>
+      <rect width="280" height="196" rx="18" fill="#1A0F3C" stroke="#B390FA" stroke-opacity=".4"/>
+      <path d="M0 46 H280" stroke="#B390FA" stroke-opacity=".2"/>
+      <circle cx="24" cy="23" r="5" fill="#B390FA"/>
+      <circle cx="42" cy="23" r="5" fill="#5926C8"/>
+      <circle cx="60" cy="23" r="5" fill="#5926C8"/>
+      <text x="28" y="98" fill="#B390FA" font-family="monospace" font-size="38" font-weight="700">&lt;/&gt;</text>
+      <rect x="28" y="122" width="170" height="8" rx="4" fill="url(#accent)"/>
+      <rect x="28" y="143" width="218" height="7" rx="3.5" fill="#EFE8FD" opacity=".2"/>
+      <rect x="28" y="163" width="134" height="7" rx="3.5" fill="#B390FA" opacity=".4"/>
+    </g>
+    <rect y="354" width="1280" height="6" fill="url(#accent)"/>
+  </g>
+</svg>
