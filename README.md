@@ -16,7 +16,7 @@ Sou **Henry Marques**, desenvolvedor em formação. Construo minha experiência 
 
 Tenho interesse em soluções para pequenos negócios. Nos meus projetos, busco unir **organização do código, interfaces claras e funcionalidades que resolvam problemas reais**.
 
-Atualmente, estou desenvolvendo uma plataforma SaaS de marketing com IA: uma forma de transformar as informações de uma marca em conteúdo para redes sociais.
+Atualmente, desenvolvo o **Zaion**, uma plataforma SaaS de marketing com IA: uma forma de transformar as informações de uma marca em conteúdo para redes sociais.
 
 ## Tecnologias
 
@@ -40,17 +40,24 @@ Ferramentas presentes nos meus estudos e projetos:
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./projeto-logo-dark.png" />
-    <img src="./projeto-logo.png" width="64" />
+    <img src="./projeto-logo.png" width="64" alt="Logo do Zaion" />
   </picture>
 </p>
 
-### Plataforma SaaS de Marketing com IA
+### Zaion · plataforma SaaS de marketing com IA
 
-**Em desenvolvimento · Mavik**
+**Em desenvolvimento · Next.js 16 + Supabase**
 
-> Uma equipe de marketing com inteligência artificial, pensada para pequenos negócios.
+> Sua equipe de marketing em um só estúdio, pensada para pequenos negócios.
 
-Estou desenvolvendo uma plataforma para reunir **estratégia, criação e gestão de conteúdo** em um só lugar. A visão é permitir que uma empresa transforme um briefing em posts alinhados à sua identidade, prontos para revisão e publicação no Instagram.
+O Zaion reúne **estratégia, criação e gestão de conteúdo** em um só lugar. A marca cadastra o seu Brand Kit (logos, cores, fontes e regras) e a IA transforma uma ideia em posts, carrosséis e roteiros de Reels alinhados à identidade dela, prontos para revisão e publicação no Instagram.
+
+- **Criar:** artes, carrosséis, roteiros de Reels e ideias de conteúdo com a identidade da marca.
+- **Editor em camadas:** a arte gerada vira camadas editáveis de texto, logo e produto, no estilo Canva.
+- **Agenda:** planejamento do mês, aprovação e publicação automática no Instagram.
+- **Perfil:** saúde da conta, comparação com concorrentes e fila de comentários.
+- **Agente:** um assistente de IA que conhece a marca e ajuda no dia a dia.
+- **WhatsApp:** confirmações e avisos da conta pelo WhatsApp (em desenvolvimento).
 
 ## Projetos publicados
 
