@@ -6,6 +6,7 @@
   <a href="#sobre-mim">Sobre mim</a> ·
   <a href="#tecnologias">Tecnologias</a> ·
   <a href="#projeto-em-destaque">Projeto em destaque</a> ·
+  <a href="#projetos-publicados">Projetos publicados</a> ·
   <a href="https://github.com/stackkzz?tab=repositories">Repositórios</a>
 </p>
 
@@ -50,6 +51,25 @@ Ferramentas presentes nos meus estudos e projetos:
 > Uma equipe de marketing com inteligência artificial, pensada para pequenos negócios.
 
 Estou desenvolvendo uma plataforma para reunir **estratégia, criação e gestão de conteúdo** em um só lugar. A visão é permitir que uma empresa transforme um briefing em posts alinhados à sua identidade, prontos para revisão e publicação no Instagram.
+
+## Projetos publicados
+
+### Qualilan · novo site de distribuidora
+
+**Proposta para cliente · Next.js 16 + Supabase**
+
+> Catálogo com orçamento pelo WhatsApp para uma distribuidora de redes, fibra óptica e CFTV.
+
+Redesenhei o site de uma distribuidora B2B com cinco unidades em SP e MG: catálogo com mais de 180 produtos, busca, filtro por marca e paginação, lista de orçamento enviada pelo WhatsApp e um painel para a equipe editar produtos e fotos. As animações são só CSS e as páginas são pré-renderizadas, com cache invalidado quando o painel salva um produto.
+
+<p>
+  <a href="https://qualilan-six.vercel.app">
+    <img src="https://img.shields.io/badge/Ver_o_site-5926C8?style=for-the-badge&amp;logo=vercel&amp;logoColor=F8F6FE" alt="Ver o site da Qualilan" />
+  </a>
+  <a href="https://github.com/stackkzz/qualilan-site">
+    <img src="https://img.shields.io/badge/C%C3%B3digo-1A0F3C?style=for-the-badge&amp;logo=github&amp;logoColor=B390FA" alt="Código do site da Qualilan" />
+  </a>
+</p>
 
 ---
 
