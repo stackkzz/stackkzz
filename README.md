@@ -48,7 +48,7 @@ Ferramentas presentes nos meus estudos e projetos:
 
 **Em desenvolvimento · Next.js 16 + Supabase**
 
-> Sua equipe de marketing em um só estúdio, pensada para pequenos negócios.
+> Sua equipe de marketing em um só estúdio.
 
 O Zaion reúne **estratégia, criação e gestão de conteúdo** em um só lugar. A marca cadastra o seu Brand Kit (logos, cores, fontes e regras) e a IA transforma uma ideia em posts, carrosséis e roteiros de Reels alinhados à identidade dela, prontos para revisão e publicação no Instagram.
 
